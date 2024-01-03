@@ -22,7 +22,7 @@
     "react-share": "^4.4.0",
     "recoil": "^0.7.2",
     "recoil-persist": "^4.2.0",
-    "short-unique-id": "^4.4.4"
+    "short-unique-id": "^5.0.0"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
